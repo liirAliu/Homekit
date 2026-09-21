@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@homekit/core": "*",
-    "zod": "^3.23.0"
+    "zod": "^4.6.5"
   },
   "keywords": [
     "mcp", "homekit", "apple-home", "ai-agent",
